@@ -34,7 +34,7 @@ Here is a todo list of things you can expect to see!
 [AprixStudios](https://www.aprixstudios.xyz/)
 
 #### Developers
-[Aprixia]() - Founder of [AprixStudios](https://www.aprixstudios.xyz/)
+[Aprixia](https://osu.ppy.sh/users/14781224) - Founder of [AprixStudios](https://www.aprixstudios.xyz/)
 
 ### Why are you making it?
 I don't really know. I want to. It seems fun, and it can help people.
