@@ -5,7 +5,7 @@ module.exports = {
     async code(client) {
         async function lobbyCreate() {
             return new Promise(resolve => {
-                client.createLobby(`Automatic Host Rotation | 4-6.49* | EARLY BETA`).then(channel => {
+                client.createLobby(`Automatic Host Rotation | -info | EARLY BETA`).then(channel => {
                     return resolve(channel);
                 });
             });
@@ -19,7 +19,7 @@ module.exports = {
         var lobby = channel.lobby;
 
         lobby.setSize(16);
-        lobby.setPassword("abc");
+        lobby.setPassword("");
 
         let commands = [];
         const commandFiles = readdirSync('./lobby/lobbycommands').filter(file => file.endsWith('.js'));
