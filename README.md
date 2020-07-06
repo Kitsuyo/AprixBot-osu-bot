@@ -39,5 +39,5 @@ Here is a todo list of things you can expect to see!
 ### Why are you making it?
 I don't really know. I want to. It seems fun, and it can help people.
 
-
-<small>Project by [AprixStudios](https://www.aprixstudios.xyz/)</small>
+---
+Project by: [AprixStudios](https://www.aprixstudios.xyz/)
