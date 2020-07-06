@@ -2,3 +2,5 @@ config.json
 package.json
 package-lock.json
 node_modules
+queue.json
+lobby/queue.json
