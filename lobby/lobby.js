@@ -69,7 +69,7 @@ module.exports = {
         lobby.on("host", async player => {
             let queue = require(`./queue.json`);
             if (player === null) return;
-            if (player.user.ircUsername !== queue[0]) {
+            if (player.user.ircUsername !== queue[0] && lobby.getPlayerSlot(queue[0])) {
                 let trueHost = await lobby.getPlayerByName(queue[0]);
                 lobby.setHost(trueHost.user.ircUsername);
                 channel.sendMessage(`${trueHost.user.ircUsername} please do not pass the host. Host rotation will be done automatically. If you don't want to pick a map, please do -skipme`);
@@ -109,8 +109,10 @@ module.exports = {
         lobby.on("matchFinished", async scores => {
             let queue = require(`./queue.json`);
             let proceed = require(`./proceed.js`);
+            let addusers = require(`./addusers.js`);
             try {
                 proceed.code(lobby, queue, scores, channel);
+                addusers.code(scores);
             } catch (error) {
                 console.error(error);
             }

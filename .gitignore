@@ -4,3 +4,4 @@ package-lock.json
 node_modules
 queue.json
 lobby/queue.json
+uniqueUsers.json

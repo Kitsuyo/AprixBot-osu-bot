@@ -39,5 +39,10 @@ Here is a todo list of things you can expect to see!
 ### Why are you making it?
 I don't really know. I want to. It seems fun, and it can help people.
 
+### What was the Startup Date?
+Coding started at 4th of July 2020
+Beta started at 6th of July 2020
+Release started at -
+
 ---
 Project by: [AprixStudios](https://www.aprixstudios.xyz/)
