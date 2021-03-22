@@ -1,5 +1,5 @@
 # AprixBot
-## A osu!bot by [AprixStudios](https://www.aprixstudios.xyz/)
+## A osu!bot by [Kitsuyo](https://kitsuyo.com/)
 
 ### What is this bot?
 This is a osu! bot that allow for Automatic Host Rotation. It will also allow you to check someone's stats in the future.
@@ -31,10 +31,10 @@ Here is a todo list of things you can expect to see!
 
 ### Who are the developers?
 #### Company
-[AprixStudios](https://www.aprixstudios.xyz/)
+[Kitsuyo](https://kitsuyo.com/)
 
 #### Developers
-[Aprixia](https://osu.ppy.sh/users/14781224) - Founder of [AprixStudios](https://www.aprixstudios.xyz/)
+[Aprixia](https://osu.ppy.sh/users/14781224) - Founder of [Kitsuyo](https://kitsuyo.com/)
 
 ### Why are you making it?
 I don't really know. I want to. It seems fun, and it can help people.
@@ -45,4 +45,4 @@ Beta started at 6th of July 2020
 Release started at -
 
 ---
-Project by: [AprixStudios](https://www.aprixstudios.xyz/)
+Project by: [Kitsuyo](https://kitsuyo.com/)
